@@ -1,0 +1,473 @@
+msgid "Typing Practice"
+msgstr "Rašymo treniravimas"
+
+msgid "Typing Practice - free games to improve your typing speed"
+msgstr "Rašymo treniravimas - nemokami žaidimai pagerinti tavo rašymo greičiui"
+
+msgid "The Top 1000 mode helps you practice the most frequent words in the english language. Every level has 50 words in it (except for the boss level, which has 100). If you reach 50 WPM, the next level is unlocked"
+msgstr "Top 1000 rėžimas padeda tau treniruotis su dažniausiai naudojamais žodžiais anglų kalboje. Kiekvienas lygis turi 50 žodžių (išskyrus boso lygį, kuris turi 100). Jeigu tu pasieksi 50 ŽPM, kitas lygis yra atrakinamas"
+
+msgid "Please login to access the Top1000 mode."
+msgstr "Prašome prisijungti, norint prieiti Top1000 rėžimą."
+
+msgid "Sorry, but you haven't unlocked this level yet."
+msgstr "Atsiprašome, bet jūs dar neturite atsirakinę šio lygio."
+
+msgid "more"
+msgstr "daugiau"
+
+msgid "less"
+msgstr "mažiau"
+
+msgid "<strong>Stars:</strong> The faster you type, the more stars are unlocked. For the normal levels you can unlock up to 5 stars:"
+msgstr "<strong>Žvaigždės:</strong> Kuo greičiau tu rašysi, tuo daugiau žvaigždžių yra atrakinama. Paprastiem lygiam tu gali atrakinti iki 5 žvaigždžių:"
+
+msgid "40 WPM = 1 Star"
+msgstr "40 ŽPM = 1 Žvaigždė"
+
+msgid "50 WPM = 2 Stars (and also unlocks the next level)"
+msgstr "50 ŽPM = 2 Žvaigždės (taip pat atrakina kitą lygį)"
+
+msgid "60 WPM = 3 stars"
+msgstr "60 ŽPM = 3 Žvaigždės"
+
+msgid "80 WPM = 4 stars"
+msgstr "80 ŽPM = 4 Žvaigždės"
+
+msgid "100 WPM = 5 stars"
+msgstr "100 ŽPM = 5 Žvaigždės"
+
+msgid "In the boss level you can unlock up to 7 Stars, the normal 5 ones you already know and with <strong>120 WPM = 6 stars</strong> and <strong>140 WPM = 7 stars</strong>. This way you can repeat the boss level multiple times to reach 7 stars (and in the end helps you practice those words even more :D )."
+msgstr "Boso lygyje tu gali atrakinti iki 7 žvaigždžių <strong>120 ŽPM = 6 žvaigždės</strong> ir <strong>140 ŽPM = 7 žvaigždės</strong>. Šiuo keliu tu gali kartoti boso lygį kelis kartus, kad pasiektum 7 žvaigždes (ir galų gale tai padeda praktikuoti rašyti tuos žodžius :D )."
+
+msgid "<strong>Hardcore Mode:</strong> The hardcore mode will be unlocked as soon as you finished the final boss level in the softcore mode with at least 50 WPM."
+msgstr "<strong>Hardcore Mode:</strong> 'Hardcore' rėžimas bus atrakintas tik kai įveiksi paskutinį boso lygį 'Softcore' rėžime su mažiausiai 50 ŽPM"
+
+msgid "The only difference between the hardcore and the softcore mode is that in the hardcore mode you have to <strong>complete each level without making a mistake</strong>. If you type a word wrong it will become red and you can still fix your mistake, but once you press space and the word was misspelled, the test will end and you have to repeat the level."
+msgstr "Vienintelis skirtumas tarp 'Hardcore' ir 'Softcore' rėžimų yra tas, kad 'Hardcore' rėžime tu turi <strong>pabaigti kiekvieną lygį nepadarius klaidos</strong>. Jeigu tu prašai žodį neteisingai žodis taps raudonas ir tu gali tą klaidą ištaisyti, bet kai paspausi tarpą ir žodis buvo neteisingai parašytas, testas bus baigtas ir tu gausi kartoti visą lygį."
+
+msgid "Softcore Mode"
+msgstr "'Softcore' rėžimas"
+
+msgid "Hardcore Mode"
+msgstr "'Hardcore' rėžimas"
+
+msgid "Softcore"
+msgstr "'Softcore'"
+
+msgid "Hardcore"
+msgstr "'Hardcore'"
+
+msgid "highest score"
+msgstr "Aukščiausias balas"
+
+msgid "40 wpm or higher"
+msgstr "40 žpm ar daugiau"
+
+msgid "50 wpm or higher"
+msgstr "50 žpm ar daugiau"
+
+msgid "60 wpm or higher"
+msgstr "60 žpm ar daugiau"
+
+msgid "80 wpm or higher"
+msgstr "80 žpm ar daugiau"
+
+msgid "100 wpm or higher"
+msgstr "100 žpm ar daugiau"
+
+msgid "120 wpm or higher"
+msgstr "120 žpm ar daugiau"
+
+msgid "140 wpm or higher"
+msgstr "140 žpm ar daugiau"
+
+msgid "Beat the previous level to unlock this challenge"
+msgstr "Įveik praeitą lygį, kad atrakintum šį iššūkį"
+
+msgid "Boss"
+msgstr "Bosas"
+
+msgid "Result"
+msgstr "Rezultatai"
+
+msgid "Words per Minute: 1 word equals 5 keystrokes"
+msgstr "Žodžiai per minutę: 1 žodis lygus 5 mygtukų paspaudimams"
+
+msgid "Words per minute (WPM)"
+msgstr "Žodžiai per minutę (ŽPM)"
+
+msgid "correct"
+msgstr "Teisingai"
+
+msgid "wrong"
+msgstr "Neteisingai"
+
+msgid "Keystrokes"
+msgstr "Mygtukų paspaudimai"
+
+msgid "Correct words"
+msgstr "Teisingi žodžiai"
+
+msgid "Wrong words"
+msgstr "Neteisingi žodžiai"
+
+msgid "Accuracy"
+msgstr "Taiklumas"
+
+msgid "time (seconds)"
+msgstr "laikas (sekundėmis)"
+
+msgid "You have to get at least 50 WPM to unlock the next level, please try again :)"
+msgstr "Jūs turite pasiekti bent 50 ŽPM, kad atrakinti kitą lygį. Prašome mėginti dar kartą :)"
+
+msgid "Congratulations, you unlocked the next level!"
+msgstr "Sveikiname, atrakinote kitą lygį!"
+
+msgid "Next Level"
+msgstr "Kitas lygis"
+
+msgid "Level Overview"
+msgstr "Lygių apžvalga"
+
+msgid "Level"
+msgstr "Lygis"
+
+msgid "This is not a keystroke counter, you will see your keystroke count after completing the text."
+msgstr "Čia yra ne mygtukų paspaudimų skaičiuoklis, jūs pamatysite savo mygtukų paspaudimų skaičių, kai pabaigsite rašyti tekstą."
+
+msgid "Character Progress"
+msgstr "Simbolių pažanga"
+
+msgid "WPM"
+msgstr "ŽPM"
+
+msgid "your highest score"
+msgstr "tavo aukščiausias rezultatas"
+
+msgid "Text Practice Mode"
+msgstr "Teksto praktikos rėžimas"
+
+msgid "language filter:"
+msgstr "kalbų filtras:"
+
+msgid "All languages"
+msgstr "Visos kalbos"
+
+msgid "TOP"
+msgstr "TOP"
+
+msgid "Upcoming"
+msgstr "Būsima"
+
+msgid "New"
+msgstr "Nauja"
+
+msgid "My Texts"
+msgstr "Mano tekstai"
+
+msgid "My Favorites"
+msgstr "Mano mėgstamiausi"
+
+msgid "Create Text"
+msgstr "Sukurti tekstą"
+
+msgid "Unable to save your text, please fix the issues mentioned below."
+msgstr "Negalima išsaugoti jūsų teksto, prašome ištaisyti klaidas paminėtas žemiau."
+
+msgid "Text has to be a private to perform this action."
+msgstr "Tekstas turi būti privatus, norint atlikti šį veiksmą."
+
+msgid "Text has to be a draft to be edited."
+msgstr "Tekstas turi būti juodraščiu, norint jį redaguoti."
+
+msgid "Your draft has been saved."
+msgstr "Jūsų juodraštis išsaugotas."
+
+msgid "Your draft has been updated."
+msgstr "Jūsų juodraštis atnaujintas."
+
+msgid "Unable to update your draft."
+msgstr "Negalime atnaujinti jūsų juodraščio."
+
+msgid "Text has to be a private to perform this action."
+msgstr "Tekstas turi būti privatus, norint atlikti šį veiksmą."
+
+msgid "Text is now a draft and can be edited, all results for this text have been removed"
+msgstr "Tekstas dabar yra juodraštis ir gali būti redaguotu, visi rezultatai šiam tekstui buvo ištrinti."
+
+msgid "Text removed"
+msgstr "Tekstas ištrintas"
+
+msgid "Text is not a draft, only drafts can be deleted."
+msgstr "Tekstas nėra juodraštis, tik juodraščiai gali būti ištrinti."
+
+msgid "Text has to be a draft to be saved or published."
+msgstr "Tekstas turi būti juodraščiu norint jį išsaugoti ar pasklebti."
+
+msgid "Text has been saved as private."
+msgstr "Tekstas buvo padarytas privačiu."
+
+msgid "Text has been published as public."
+msgstr "Tekstas buvo paskelbtas viešu."
+
+msgid "Create new text"
+msgstr "Sukurtu naują tekstą"
+
+msgid "Text title"
+msgstr "Teksto pavadinimas"
+
+msgid "Your text"
+msgstr "Tavo tekstas"
+
+msgid "Text language"
+msgstr "Teksto kalba"
+
+msgid "Edit your draft"
+msgstr "Redaguoti jūsų juodraštį"
+
+msgid "Please choose a descriptive title"
+msgstr "Prašome pasirinkti aprašomą pavadinimą"
+
+msgid "At least 10 characters"
+msgstr "Bent 10 simbolių"
+
+msgid "Save Draft"
+msgstr "Išsaugoti juodraštį"
+
+msgid "Warning"
+msgstr "Perspėjimas"
+
+msgid "Your text is currently in <strong>private</strong>-state. If you want to edit your text, you must set it to <strong>draft</strong>-state.<br> When changing to draft-state <strong>all your results will be deleted</strong>. This action can not be undone!"
+msgstr "Jūsų tekstas kol kas yra <strong>privačioje</strong>-būsenoje. Jeigu norite redaguoti jūsų tekstą, jūs turite jį padaryti <strong>juodraščiu</strong>.<br> Kai keičiate į juodraštį <strong>visi jūsų rezultatai bus ištrinti</strong>. Šis veiksmas negali būti atkurtas!"
+
+msgid "Go back to text"
+msgstr "Eiti atgal prie teksto"
+
+msgid "or"
+msgstr "arba"
+
+msgid "Delete results and change text-state to draft"
+msgstr "Panaikinti rezultatus ir pakeisti tekstą į juodraštį"
+
+msgid "make changes, fix grammar etc."
+msgstr "Padaryti pakeitimų, pataisyti gramatiką t.t."
+
+msgid "edit draft"
+msgstr "koreguoti juodraštį"
+
+msgid "Only you and the people you share the url with will be able to see this text. The text can be edited afterwards, but your progress will be erased."
+msgstr "Tik tu ir žmonės su kuriais pasidalinai URL galės matyti šį tekstą. Tekstas gali būti pakoreguotas vėliau, bet tavo progresas bus ištrintas"
+
+msgid "save text (private)"
+msgstr "išsaugoti tekstą (privatus)"
+
+msgid "Everyone will be able to see this text. This can't be undone and you won't be able to edit or delete the text afterwards!"
+msgstr "Visi galės matyti šį tekstą. Tai negali būti atšaukta ir jūs negalėsite koreguoti ar ištrinti teksto vėliau!"
+
+msgid "publish text (public)"
+msgstr "skelbti tekstą (viešas)"
+
+msgid "Are you sure?"
+msgstr "Ar jūs užtikrintas?"
+
+msgid "This will delete the draft. If you just want to add/edit/remove parts of the text, use the [edit draft] option."
+msgstr "Tai sunaikins juodraštį. Jeigu jūs norite tik pridėti/koreguoti/panaikinti dalis teksto, naudokite [koreguoti juodraštį] parinktį."
+
+msgid "delete draft"
+msgstr "ištrinti juodraštį"
+
+msgid "Congratulations, you scored %s points!"
+msgstr "Sveikiname, jūs surinkote %s taškų!"
+
+msgid "You completed this test %s time(s)."
+msgstr "Jūs užbaigėte šį testą %s kartą(ų)."
+
+msgid "You finished this test in <strong>%s</strong> seconds with an accuracy of <strong>%s</strong>"
+msgstr "Jūs baigėte šį testą per <strong>%s</strong> sekundžių, su <strong>%s</strong> taiklumu"
+
+msgid "You typed <strong>%s</strong> correct keystrokes with <strong>%s</strong> corrections."
+msgstr "Jūs parašėte <strong>%s</strong> teisingų mygtukų paspaudimų su <strong>%s</strong> pataisymų."
+
+msgid "<strong>%s</strong> words were correct and <strong>%s</strong> were wrong."
+msgstr "<strong>%s</strong> žodžių buvo teisingų ir <strong>%s</strong> buvo neteisingi."
+
+msgid "restart this test"
+msgstr "kartoti testą"
+
+msgid "or press 'r' to restart"
+msgstr "arba paspauskite 'r' kartoti"
+
+msgid "Rate this text"
+msgstr "Įvertinkite šį tekstą"
+
+msgid "Statistics"
+msgstr "Statistikos"
+
+msgid "Score"
+msgstr "Taškai"
+
+msgid "time in minutes and seconds"
+msgstr "laikas minutėmis ir sekundėmis"
+
+msgid "Time"
+msgstr "Laikas"
+
+msgid "accuracy"
+msgstr "Taiklumas"
+
+msgid "your score"
+msgstr "Jūsų taškai"
+
+msgid "your average"
+msgstr "jūsų vidurkis"
+
+msgid "average worldwide"
+msgstr "vidurkis visame pasaulyje"
+
+msgid "your best result"
+msgstr "jūsų geriausias rezultatas"
+
+msgid "best result worldwide"
+msgstr "geriausias rezultatas visame pasaulyje"
+
+msgid "This is what you typed"
+msgstr "Tai, ką jūs įvedėte"
+
+msgid "edit text"
+msgstr "koreguoti tekstą"
+
+msgid "created %s by <a href=\"user-id\">%s</a>"
+msgstr "sukurta %s <a href=\"user-id\">%s</a>"
+
+msgid "rating"
+msgstr "įvertinimas"
+
+msgid "words"
+msgstr "žodžiai"
+
+msgid "completed"
+msgstr "atlikta"
+
+msgid "favorited"
+msgstr "megstami"
+
+msgid "type to start ..."
+msgstr "rašykite, kad pradėtumėme ..."
+
+msgid "today"
+msgstr "šiandien"
+
+msgid "this week"
+msgstr "šią savaitę"
+
+msgid "this month"
+msgstr "šį mėnesį"
+
+msgid "this year"
+msgstr "šiais metais"
+
+msgid "all time"
+msgstr "visų laikų"
+
+msgid "State"
+msgstr "State"
+
+msgid "Title"
+msgstr "Pavadinimas"
+
+msgid "search ..."
+msgstr "ieškoti ..."
+
+msgid "Textlength"
+msgstr "Teksto ilgis"
+
+msgid "Rating"
+msgstr "Įvertinimas"
+
+msgid "Views"
+msgstr "Peržiūros"
+
+msgid "Finished"
+msgstr "Baigė"
+
+msgid "Age"
+msgstr "Metai"
+
+msgid "draft"
+msgstr "juodraštis"
+
+msgid "public"
+msgstr "viešas"
+
+msgid "private"
+msgstr "privatus"
+
+msgid "%s votes"
+msgstr "%s balsų"
+
+msgid "%s words"
+msgstr "%s ždžių"
+
+msgid "%s characters"
+msgstr "%s simbolių"
+
+msgid "%s / day"
+msgstr "%s / dieną"
+
+msgid "sorry, no text available"
+msgstr "atsiprašome, teksto nėra"
+
+msgid "Text not found"
+msgstr "Tekstas nerastas"
+
+msgid "Please login to rate this text."
+msgstr "Prašome prisijungti norint įvertinti tekstą."
+
+msgid "Thank you for voting!"
+msgstr "Ačiū, kad balsavote!"
+
+msgid "Rating: %s"
+msgstr "Įvertinimas: %s"
+
+msgid "Rating visible after 3 or more votes"
+msgstr "Įvertinimas matomas po 3 ar daugiau įvertinimų"
+
+msgid "Top 1000 Typing Mode"
+msgstr "Top 1000 rašymo rėžimas"
+
+msgid "My Practice Texts"
+msgstr "Mano praktikavimosi tekstai"
+
+msgid "Add a Text for typing practice - Text Practice Mode - "
+msgstr "Pridėti tekstą rašymo praktikai - teksto praktikavimosi rėžimas - "
+
+msgid "saving score / loading statistics ..."
+msgstr "saugomas rezultatas / kraunama statistika ..."
+
+msgid "Text Draft - "
+msgstr "Teksto juodraštis - "
+
+msgid "Report Spam"
+msgstr "Pranešti šlamštą"
+
+msgid "Flag text as spam"
+msgstr "Pažymėkite tekstą kaip šlamštą"
+
+msgid "Do you really want to report this text for spam?"
+msgstr "Ar tikrai norite pranešti tekstą kaip šlamštą?"
+
+msgid "Report for Spam"
+msgstr "Pranešti apie šlamštą"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Thank you for helping to keep 10FastFingers clean!"
+msgstr "Ačiū, kad padedate laikyti 10FastFingers švairiu!"
+
+msgid "Wrong text."
+msgstr "Neteisingas tekstas."
+
+msgid "You have to be logged in to report a text for spam."
+msgstr "Jūs turite būti prisijungę, kad pranešti tekstą kaip šlamštą."

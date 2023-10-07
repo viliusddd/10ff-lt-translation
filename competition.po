@@ -1,0 +1,150 @@
+msgid "Typing Competition"
+msgstr "Rašymo varžybos"
+
+msgid "Create Game"
+msgstr "Sukurti žaidimą"
+
+msgid "Join Game"
+msgstr "Prisijungti prie žaidimo"
+
+msgid "Result"
+msgstr "Rezultatas"
+
+msgid "Words per Minute: 1 word equals 5 keystrokes"
+msgstr "Žodžiai per minutę: 1 žodis lygus 5 klavišams"
+
+msgid "Words per minute (WPM)"
+msgstr "Žodžiai per minutę (ŽPM)"
+
+msgid "Correct words"
+msgstr "Teisingi žodžiai"
+
+msgid "Wrong words"
+msgstr "Klaidingi žodžiai"
+
+msgid "Can you type faster than your friends?"
+msgstr "Ar rašote greičiau už draugus?"
+
+msgid "Just type the text in the box, you have 1 minute to type as many words as possible."
+msgstr "Jūs turite 1 minutę parašyti kuo daugiau žodžių, esančių langelyje."
+
+msgid "You and your friends all get the same text and only your highest score counts, so if you are not satisfied with your score, just try again. Try to reach the first place before the competition ends."
+msgstr "Jūs ir jūsų draugai gaunate tą patį tekstą ir tik geriausi rezultatai skaičiuojami, taigi, jei esate nepatenkinti savo rezultatu, pamėginkite iš naujo. Pamėginkite pasiekti pirmą vietą iki varžybų pabaigos."
+
+msgid "Invite your friends"
+msgstr "Invite your friends"
+
+#Facebook Share Title
+msgid "Typing Competition 10FastFingers.com"
+msgstr "Rašymo varžybos 10FastFingers.com"
+
+#Twitter Share Text
+msgid "Are you faster than me, lets find out"
+msgstr "Pažiūrėkime, ar esat už mane greitesni"
+
+#Email Share Subject
+msgid "Who can type faster"
+msgstr "Kas gali rašyti greičiau"
+
+#Email Share Body/Message
+msgid "Lets have a fun typing battle"
+msgstr "Susirunkime smagiose rašymo varžybose"
+
+msgid "Create a new Competition"
+msgstr "Sukurti naujas varžybas"
+
+#Create new Competition Button
+msgid "Go"
+msgstr "Pirmyn"
+
+msgid "<a href=\"/login\">Login</a> to save your score"
+msgstr "<a href=\"/login\">Login</a> to save your score"
+
+#Competition ends in
+msgid "ends in"
+msgstr "baigiasi už"
+
+#competition details. VAR: tests taken by users | number of participants
+msgid "<span id=\"tests-taken\">%s</span> tests taken by <span id=\"count-competitors\">%s</span> competitors"
+msgstr "<span id=\"tests-taken\">%s</span> testų atlikta <span id=\"count-competitors\">%s</span> varžovų"
+
+msgid "Username"
+msgstr "Slapyvardis"
+
+msgid "ago"
+msgstr "prieš"
+
+msgid "Start a Typing Competition"
+msgstr "Pradėti rašymo varžybas"
+
+msgid "Create a private competition by activating the checkbox"
+msgstr "Sukurkite privačias varžybas pažymėdami varnele langelį"
+
+msgid "(No one will be able to see the competition, unless you share the url)"
+msgstr "(Niekas negalės matyti varžybų, nebent pasidalinsite adresu)"
+
+msgid "Pick your language, then press the Button"
+msgstr "Pasirinkite kalbą, tada spauskite mygtuką"
+
+msgid "Participants"
+msgstr "Dalyviai"
+
+msgid "Tests taken"
+msgstr "Atliktų testų"
+
+msgid "Time left"
+msgstr "Likęs laikas"
+
+#Join Competition Button
+msgid "Join"
+msgstr "Prisijungti"
+
+msgid "You have to be <a href=\"/login\">logged in</a> to create a Competition."
+msgstr "You have to be <a href=\"/login\">logged in</a> to create a Competition."
+
+#Competition Facebook Share Link. VAR: competition-hash
+msgid "<a href=\"http://www.facebook.com/sharer.php?u=http://apps.facebook.com/ten_fast_fingers/competition/%s&t=Typing Competition 10FastFingers.com\" target=\"_blank\" id=\"facebook\" class=\"share-btn\"></a>"
+msgstr "<a href=\"http://www.facebook.com/sharer.php?u=http://apps.facebook.com/ten_fast_fingers/competition/%s&t=Rašymo varžybos 10FastFingers.com\" target=\"_blank\" id=\"facebook\" class=\"share-btn\"></a>"
+
+#Competition Twitter Share Link. VAR: competition-hash
+msgid "<a href=\"http://twitter.com/home?status=Are you faster than me, lets find out: https://10fastfingers.com/competition/%s\" target=\"_blank\" id=\"twitter\" class=\"share-btn\"></a>"
+msgstr "<a href=\"http://twitter.com/home?status=Pažiūrėkime, ar esat už mane greitesni: https://10fastfingers.com/competition/%s\" target=\"_blank\" id=\"twitter\" class=\"share-btn\"></a>"
+
+#Competition Google Plus Share Link. VAR: competition-hash
+msgid "<a href=\"https://plusone.google.com/_/+1/confirm?hl=en&url=https://10fastfingers.com/competition/%s\" target=\"_blank\" id=\"google\" class=\"share-btn\"></a>"
+msgstr "<a href=\"https://plusone.google.com/_/+1/confirm?hl=en&url=https://10fastfingers.com/competition/%s\" target=\"_blank\" id=\"google\" class=\"share-btn\"></a>"
+
+#Competition Email Share Link. VAR: competition-hash
+msgid "<a href=\"mailto:?subject=Who is the fastest typer&body=Lets have a fun typing competition:\n\n https://10fastfingers.com/competition/%s\" id=\"email\" class=\"share-btn\"></a>"
+msgstr "<a href=\"mailto:?subject=Kas yra greičiausias rašytojas&body=Susirunkime smagiose rašymo varžybose:\n\n https://10fastfingers.com/competition/%s\" id=\"email\" class=\"share-btn\"></a>"
+
+#Competition URL Share Link. VAR: competition-hash | competition-hash
+msgid "Start: <a href=\"https://10fastfingers.com/competition/%s\">https://10fastfingers.com/competition/%s</a>"
+msgstr "Pradėti: <a href=\"https://10fastfingers.com/competition/%s\">https://10fastfingers.com/competition/%s</a>"
+
+msgid "Can you type faster than your friends? Everybody gets the same text and only your highest score counts, try to reach the first place before the competition ends."
+msgstr "Ar rašote greičiau už draugus? Kiekvienas gauna tą patį tekstą ir tik geriausias rezultatas užskaitomas, pamėginkite pasiekti pirmą vietą iki varžybų pabaigos."
+
+msgid "Competition finished. You can create a new one, just click on the button."
+msgstr "Varžybos baigėsi. Galite sukurti naujas, tiesiog paspauskite mygtuką."
+
+msgid "You participated in this Typing competition"
+msgstr "You participated in this Typing competition"
+
+msgid "Number of tests taken"
+msgstr "Number of tests taken"
+
+msgid "Competition Ranking"
+msgstr "Competition Ranking"
+
+msgid "In Competition wins are only the public competitions included"
+msgstr "In Competition wins are only the public competitions included"
+
+msgid "Wins"
+msgstr "Wins"
+
+msgid "Competitions taken"
+msgstr "Competitions taken"
+
+msgid "You can only have one active competition at a time: <a href=\"https://10fastfingers.com/competition/%s\">https://10fastfingers.com/competition/%s</a>"
+msgstr "You can only have one active competition at a time: <a href=\"https://10fastfingers.com/competition/%s\">https://10fastfingers.com/competition/%s</a>"

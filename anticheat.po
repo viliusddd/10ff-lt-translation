@@ -1,0 +1,77 @@
+msgid "Sorry, but you have to be logged in to access the Anti-Cheat overview."
+msgstr "Sorry, but you have to be logged in to access the Anti-Cheat overview."
+
+msgid "You unlocked %s of your results."
+msgstr "You unlocked %s of your results."
+
+msgid "To see if you have more <strong>locked</strong> results, <a href=\"/anticheat\">click here</a>"
+msgstr "To see if you have more <strong>locked</strong> results, <a href=\"/anticheat\">click here</a>"
+
+msgid "What is 'Max unlocked WPM'-value?"
+msgstr "What is 'Max unlocked WPM'-value?"
+
+msgid "Until you surpass this value, you won't have to do another Anti-Cheat-Test in this language."
+msgstr "Until you surpass this value, you won't have to do another Anti-Cheat-Test in this language."
+
+msgid "Start Test"
+msgstr "Start Test"
+
+msgid "Anti-Cheat Test"
+msgstr "Anti-Cheat Test"
+
+msgid "This Anti-Cheat-test is to evaluate your typing result <em>(sorry about the inconvenience but this is the only way to prevent cheating on 10FastFingers)</em>."
+msgstr "This Anti-Cheat-test is to evaluate your typing result <em>(sorry about the inconvenience but this is the only way to prevent cheating on 10FastFingers)</em>."
+
+msgid "This test only appears when you type faster than X WPM. Below you can see the last 5 results in each category that are currently not counted. By clicking on one of those results you will get to the Anti-Cheat-Test where you can unlock the results by typing fast enough (don't worry, you can try it as often as you like)."
+msgstr "This test only appears when you type faster than X WPM. Below you can see the last 5 results in each category that are currently not counted. By clicking on one of those results you will get to the Anti-Cheat-Test where you can unlock the results by typing fast enough (don't worry, you can try it as often as you like)."
+
+msgid "Currently no unconfirmed results"
+msgstr "Currently no unconfirmed results"
+
+msgid "Anticheat Overview"
+msgstr "Anticheat Overview"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Press Start and type the words you see in this field"
+msgstr "Press Start and type the words you see in this field"
+
+msgid "Reload"
+msgstr "Reload"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "press TAB + ENTER"
+msgstr "press TAB + ENTER"
+
+msgid "Explanation"
+msgstr "Explanation"
+
+msgid "This test only appears when you type faster than X WPM. After pressing \"Start\" (TAB + ENTER) you will see a picture with words in it. Type those words as fast as possible and after you have finished, click the submit button (\"TAB + ENTER\")."
+msgstr "This test only appears when you type faster than X WPM. After pressing \"Start\" (TAB + ENTER) you will see a picture with words in it. Type those words as fast as possible and after you have finished, click the submit button (\"TAB + ENTER\")."
+
+msgid "Help"
+msgstr "Help"
+
+msgid "<strong>Start:</strong> Press \"TAB+ENTER\" to start the test (instead of clicking on the \"Start\"-Button)"
+msgstr "<strong>Start:</strong> Press \"TAB+ENTER\" to start the test (instead of clicking on the \"Start\"-Button)"
+
+msgid "<strong>Submit:</strong> If you are finished typing the words you can just press \"TAB + ENTER\" to submit the result to the server (this will save you some time, as you don't have to click the \"Submit\"-Button)"
+msgstr "<strong>Submit:</strong> If you are finished typing the words you can just press \"TAB + ENTER\" to submit the result to the server (this will save you some time, as you don't have to click the \"Submit\"-Button)"
+
+msgid "If some of the characters/words are messed up, just skip these and submit the test, you don't have to type all words to complete the test"
+msgstr "If some of the characters/words are messed up, just skip these and submit the test, you don't have to type all words to complete the test"
+
+msgid "Max unlocked WPM"
+msgstr "Max unlocked WPM"
+
+msgid "Correct Keystrokes"
+msgstr "Correct Keystrokes"
+
+msgid "Wrong Keystrokes"
+msgstr "Wrong Keystrokes"
+
+msgid "Time needed in ms"
+msgstr "Time needed in ms"

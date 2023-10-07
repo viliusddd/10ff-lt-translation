@@ -1,0 +1,188 @@
+msgid "FAQ - frequently asked questions"
+msgstr "DUK - Dažnai užduodami klausimai"
+
+msgid "If you have a question which is not mentioned here, please contact via email:"
+msgstr "Jei turite čia nesantį klausimą, susisiekite el. paštu:"
+
+msgid "WPM - words per minute"
+msgstr "ŽPM - žodžiai per minutę"
+
+msgid "WPM-calculation is based on the following calculation: 5 keystrokes equal 1 WPM, if you don't believe me, check Wikipedia about <a href=\"http://en.wikipedia.org/wiki/Words_per_minute\">Words per minute</a> :)"
+msgstr "ŽPM-apskaičiavimas yra paremtas šiuo skaičiavimu: 5 klavišai lygu 1 ŽPM, jei manimi netikite, perskaitykite Vikipedijoje apie <a href=\"http://en.wikipedia.org/wiki/Words_per_minute\">Words per minute (ŽPM)</a> :)"
+
+msgid "What is a keystroke?"
+msgstr "Kas yra klavišas (klavišo paspaudimas)?"
+
+msgid "Every key you hit on the keyboard to type a letter is one keystroke. The calculation also considers if you have to type uppercase letters or language specific letters who need 2 keystrokes to be typed (for example \"A\"). For example \"quick\" needs 5 keystrokes whereas \"America\" needs 8 keystrokes."
+msgstr "Kiekvienas klaviatūros klavišo paspaudimas rašant raidę yra vienas \"klavišas\". Apskaičiavimai taip pat remiasi ir tuo, ar jums reikia rašyti didžiąją raidę, ar kai kurių kalbų raidę, kuri reikalauja dviejų klavišų paspaudimo (pvz. \"A\"). Pavyzdžiui \"labas\" reikalauja 5 klavišų paspaudimų, tuo tarpu \"Labas\" reikalauja 6 klavišų paspaudimų."
+
+msgid "Why is my score not saved (sometimes)?"
+msgstr "Kodėl mano rezultatai nėra išsaugomi (kartais)?"
+
+msgid "If you have a slow computer or doing a lot of things simultaneously on your computer, the 60-second timer might be slowed down. This might result in a situation were you instead of having 60 seconds, you actually have 70 seconds to type. The server detects this as a cheat attempt (even though it might just be a slow computer or something related to this) and doesn't save the score in this case. You can fix this by closing all of your running programs and every tab in your browser."
+msgstr "Jei turite lėtą kompiuterį ar atliekate su juo labai daug veiksmų, 60 sekundžių laikmatis gali būti lėtesnis. Tuo atveju vietoj 60 sekundžių jūs turite, pavyzdžiui, 70 sekundžių teksto rašymui. Serveris atpažįsta tai kaip bandymą sukčiauti (net jei tiesiog jūsų kompiuteris lėtas ar pan.) ir tuo atveju neišsaugo rezultato. Jūs galite to išvengti išjungdami visas veikiančias programas ir kiekvieną skirtuką interneto naršyklėje."
+
+msgid "Translation - How can I help?"
+msgstr "Translation - How can I help?"
+
+msgid "If you would like to help translate 10FastFingers into your language, please take a look at the translation page: For translations please take a look at the <a hreF=\"/translations\">translation page</a>"
+msgstr "If you would like to help translate 10FastFingers into your language, please take a look at the translation page: For translations please take a look at the <a hreF=\"/translations\">translation page</a>"
+
+msgid "Where is my achievement?"
+msgstr "Kur mano pasiekimas?"
+
+msgid "After you fullfilled the requirements for the achievement, please give it up to 5 minutes for the achievement to be unlocked.<br /> If it still doesn't show up, please make sure javascript is activated on your profile page and reload the page."
+msgstr "After you fullfilled the requirements for the achievement, please give it up to 5 minutes for the achievement to be unlocked.<br /> If it still doesn't show up, please make sure javascript is activated on your profile page and reload the page."
+
+msgid "How do you know which language specific characters need more than 1 keystroke?"
+msgstr "Iš kur jūs žinote, kurie tam tikrų kalbų simboliai reikalauja daugiau nei vieno klavišų paspaudimo?"
+
+msgid "I don't, thats why I need your help. I currently check for these characters in their specific language and count them as 2 keystrokes:"
+msgstr "Aš nežinau, todėl man ir reikia jūsų pagalbos. Šiuo metu aš tiesiog ieškau šių simbolių tam tikrose kalbose ir užskaitau juos kaip du klavišų paspaudimus:"
+
+msgid "All languages:"
+msgstr "Visos kalbos:"
+
+msgid "all uppercase letters (ABCDEFGHIJKLMNOPQRSTUVWXYZ)"
+msgstr "visos didžiosios raidės (ABCDEFGHIJKLMNOPQRSTUVWXYZ)"
+
+msgid "If your language is missing specific \"2-keystroke\"-characters, please let me know: <a href=\"mailto:go4@christianstrang.de\">go4@christianstrang.de</a>"
+msgstr "Jei nėra jūsų kalboje vartojamų \"dviejų klavišų\" simbolių, praneškite man: <a href=\"mailto:go4@christianstrang.de\">go4@christianstrang.de</a>"
+
+msgid "What is the average wpm of the population"
+msgstr "Koks yra vidutinis ŽPM pasaulyje"
+
+msgid "The average WPM on 10fastfingers is <strong>42 WPM</strong>. This number is extracted from over 14 million tests, spread out over 41 languages."
+msgstr "Vidutinis ŽPM 10fastfingers yra <strong>42 ŽPM</strong>. Šis skaičius yra gautas iš virš 14 milijonų testų, atliktų virš 41 kalbų."
+
+msgid "All time Highscore"
+msgstr "Visų laikų rekordas"
+
+msgid "You may ask: \"Why is there no highscore older than 1 day?\" There are a few cheaters who use the typing test to satisfy some weird sense of accomplishment by cheating. Even though I try to make it harder for cheaters, its not impossible (and probably not really difficult if you know a little bit about scripts, etc.). If there were an all time highscore, it would just be populated by those individuals and thats why I decided against such a list, sorry!"
+msgstr "Jūs galite klausti: \"Kodėl nėra rekordo, senesnio nei 1 diena?\". Yra keli sukčiai, kurie sukčiauja rašymo testuose, norėdami patirti keistą pasiekimo jausmą sukčiaudami. Net jei aš ir bandau padaryti viską sudėtingiau sukčiams, jiems tai nėra neįmanoma (net turbūt nesunku, jei bent truputį žinote apie programavimą ir pan.). Jei būtų rodomi visų laikų rekordai, jie priklausytų tokiems sukčiams, todėl aš nusistatęs prieš tokias lenteles, nepykit!"
+
+msgid "Why does the ENTER key not work anymore?"
+msgstr "Kodėl ENTER klavišas daugiau nebeveikia?"
+
+msgid "In the previous version it was possible to use the ENTER key to insert words (instead of the SPACE bar). For your regular typing experiences the SPACE bar is much more important than the ENTER key. Allowing to use the ENTER key might train the \"wrong\" typing behaviour, therefore I removed this option, it will help you in the longrun! (Remember to use your thumb(s) for the SPACE bar.)"
+msgstr "Praeitoje versijoje būdavo įmanoma naudoti ENTER klavišą žodžių užbaigimui (vietoj TARPO klavišo). Paprastai rašydami jūs gi nenaudojate ENTER klavišo po kiekvieno žodžio, ar ne? Todėl aš jo veikimą ir panaikinau, kadangi jūs išmoktumėte vietoj TARPO klavišo naudoti ENTER klavišą! (Atsiminkite, TARPO klavišą spauskite su nykščiu.)"
+
+msgid "2 keystrokes"
+msgstr "2 klavišai"
+
+msgid "3 keystrokes"
+msgstr "3 klavišai"
+
+msgid "4 keystrokes"
+msgstr "4 klavišai"
+
+msgid "5 keystrokes"
+msgstr "5 klavišai"
+
+msgid "My iPad auto-capitalizes the first character of every word"
+msgstr "Mano iPad automatiškai žodžius rašo iš didžiosios raidės"
+
+msgid "You can deactivate this behaviour, please follow this instruction: <a href=\"https://discussions.apple.com/thread/7445351?start=0\">How to Make an iPad Stop Typing Initial Caps</a>"
+msgstr "Jūs galite panaikinti tokį dalyką, sekite šias instrukcijas: <a href=\"https://discussions.apple.com/thread/7445351?start=0\">How to Make an iPad Stop Typing Initial Caps</a>"
+
+msgid "How is the accuracy calculated?"
+msgstr "How is the accuracy calculated?"
+
+msgid "For the calculation of accuracy (used in the text practice mode) the amount of mistakes made and the number of corrections used is taken into consideration."
+msgstr "For the calculation of accuracy (used in the text practice mode) the amount of mistakes made and the number of corrections used is taken into consideration."
+
+msgid "Imagine a text requiring exactly 500 keystrokes. There are 4 possible cases:"
+msgstr "Imagine a text requiring exactly 500 keystrokes. There are 4 possible cases:"
+
+msgid "0 wrong word and 0 correction: 500 correct entries out of 500 = 500/500 * 100 = 100% accuracy."
+msgstr "0 wrong word and 0 correction: 500 correct entries out of 500 = 500/500 * 100 = 100% accuracy."
+
+msgid "0 wrong word and corrections: e.g. 500 correct entries and 25 corrections = 500/(500+25) * 100 = 95,23% accuracy."
+msgstr "0 wrong word and corrections: e.g. 500 correct entries and 25 corrections = 500/(500+25) * 100 = 95,23% accuracy."
+
+msgid "Wrong words and 0 correction: e.g. 10 wrong words worth 450 correct entries out of 500 = 450/500 * 100 = 90% accuracy."
+msgstr "Wrong words and 0 correction: e.g. 10 wrong words worth 450 correct entries out of 500 = 450/500 * 100 = 90% accuracy."
+
+msgid "Wrong words and corrections: e.g. 10 wrong words worth 450 correct entries out of 500 and 25 corrections = 450/(500+25) = 85,71% accuracy."
+msgstr "Wrong words and corrections: e.g. 10 wrong words worth 450 correct entries out of 500 and 25 corrections = 450/(500+25) = 85,71% accuracy."
+
+msgid "Thank you <a href=\"https://10fastfingers.com/user/4329/\">Linsk</a> for coming up with this :)"
+msgstr "Thank you <a href=\"https://10fastfingers.com/user/4329/\">Linsk</a> for coming up with this :)"
+
+msgid "My scores over 120 WPM are not visible"
+msgstr "My scores over 120 WPM are not visible"
+
+msgid "If you receive a result over 120 WPM you have to unlock it with an anti-cheat-test. Click on the speech bubble at the top of the site to check for notifications."
+msgstr "If you receive a result over 120 WPM you have to unlock it with an anti-cheat-test. Click on the speech bubble at the top of the site to check for notifications."
+
+msgid "My results are not visible in the competition"
+msgstr "My results are not visible in the competition"
+
+msgid "If this happens in every competition you participate in, your account is probably flagged for cheating. To prevent this for future account => don't cheat. If you think you have been unjustly flagged, please send me an email with a link to your profile/account-page."
+msgstr "If this happens in every competition you participate in, your account is probably flagged for cheating. To prevent this for future account => don't cheat. If you think you have been unjustly flagged, please send me an email with a link to your profile/account-page."
+
+msgid "You probably have to unlock your result by completing the anti-cheat-test. At the top of the page your should see 'notifications', clicking on it you will be able to participate in an anti-cheat-test."
+msgstr "You probably have to unlock your result by completing the anti-cheat-test. At the top of the page your should see 'notifications', clicking on it you will be able to participate in an anti-cheat-test."
+
+msgid "How are the score/points in the Text Practice Mode calculated?"
+msgstr "How are the score/points in the Text Practice Mode calculated?"
+
+msgid "Everytime you complete a text you get a score, here is how it is calculated:"
+msgstr "Everytime you complete a text you get a score, here is how it is calculated:"
+
+msgid "The number of correct keystrokes is multiplied with the accuracy, for example: 500 (correct keystrokes) * 1.0 (100% accuracy) = 500 (acc_points)"
+msgstr "The number of correct keystrokes is multiplied with the accuracy, for example: 500 (correct keystrokes) * 1.0 (100% accuracy) = 500 (acc_points)"
+
+msgid "This value (acc_points) is now multiplied with the milliseconds needed divided by 60000 milliseconds. Lets say it tooks us 60 seconds to get 500 correct keystrokes: 500 / (60000 / 60000) = 500 (acc_time_points). <br /> This calculation integrates the time into our score, the faster you type correct and accurate, the higher your score."
+msgstr "This value (acc_points) is now multiplied with the milliseconds needed divided by 60000 milliseconds. Lets say it tooks us 60 seconds to get 500 correct keystrokes: 500 / (60000 / 60000) = 500 (acc_time_points). <br /> This calculation integrates the time into our score, the faster you type correct and accurate, the higher your score."
+
+msgid "This value (acc_time_points) is now multiplied by all keystrokes the text consisted of divided by 500. Lets say the whole text consisted of 500 keystrokes: 500 * (500 / 500) = 500 (acc_time_length_points). <br /> This last step will give longer texts an edge over very short texts (below 500 keystrokes). This is needed or otherwise very short texts would be the best way to gather points."
+msgstr "This value (acc_time_points) is now multiplied by all keystrokes the text consisted of divided by 500. Lets say the whole text consisted of 500 keystrokes: 500 * (500 / 500) = 500 (acc_time_length_points). <br /> This last step will give longer texts an edge over very short texts (below 500 keystrokes). This is needed or otherwise very short texts would be the best way to gather points."
+
+msgid "Here is another calculation, this time with slightly different values:"
+msgstr "Here is another calculation, this time with slightly different values:"
+
+msgid "and one more:"
+msgstr "and one more:"
+
+msgid "Login not working"
+msgstr "Login not working"
+
+msgid "Have you tried to login with a 1-click-login provider like \"Google\"? Maybe you used this to create your account and just forgot about it. If this doesn't work, please try the password recovery, it might take a while for the email to arrive. If this also doesn't work or the email doesn't arrive, please contact me."
+msgstr "Have you tried to login with a 1-click-login provider like \"Google\"? Maybe you used this to create your account and just forgot about it. If this doesn't work, please try the password recovery, it might take a while for the email to arrive. If this also doesn't work or the email doesn't arrive, please contact me."
+
+msgid "points"
+msgstr "points"
+
+msgid "How can I delete my account?"
+msgstr "How can I delete my account?"
+
+msgid "Log into your account, go to your profile page, click on 'Settings' and at the bottom you will find a 'Delete Account' Button. Be aware that once your account has been deleted, it can't be restored and you have to create a new one."
+msgstr "Log into your account, go to your profile page, click on 'Settings' and at the bottom you will find a 'Delete Account' Button. Be aware that once your account has been deleted, it can't be restored and you have to create a new one."
+
+msgid "letter"
+msgstr "letter"
+
+msgid "shift"
+msgstr "shift"
+
+msgid "I currently just quintuple the characters. For example: \"明年\" will count as 10 keystrokes."
+msgstr "I currently just quintuple the characters. For example: \"明年\" will count as 10 keystrokes."
+
+msgid "Each character counts as 3 Keystrokes. This isn't accurate but there is currently no better system to determine the correct keystroke count."
+msgstr "Each character counts as 3 Keystrokes. This isn't accurate but there is currently no better system to determine the correct keystroke count."
+
+msgid "What is the tie-breaking rule?"
+msgstr "What is the tie-breaking rule?"
+
+msgid "If same WPM: the highest CPM wins."
+msgstr "If same WPM: the highest CPM wins."
+
+msgid "If same CPM: the lowest wrong words wins."
+msgstr "If same CPM: the lowest wrong words wins."
+
+msgid "If same CPM/wrong words: the lowest corrections wins."
+msgstr "If same CPM/wrong words: the lowest corrections wins."
+
+msgid "If same CPM/wrong words/corrections: the earliest test taken wins."
+msgstr "If same CPM/wrong words/corrections: the earliest test taken wins."

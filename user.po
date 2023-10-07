@@ -1,0 +1,211 @@
+#profile message if user profile doesn't exist
+msgid "User doesn't exist"
+msgstr "Vartotojas neegzistuoja"
+
+msgid "Settings saved"
+msgstr "Nustatymai išsaugoti"
+
+msgid "Unable to save settings, please try again."
+msgstr "Nepavyko išsaugoti nustatymų, pamėginkite iš naujo."
+
+msgid "Username saved"
+msgstr "Slapyvardis išsaugotas"
+
+msgid "Username already exists"
+msgstr "Slapyvardis jau egzistuoja"
+
+msgid "Password saved"
+msgstr "Slaptažodis išsaugotas"
+
+msgid "Your new password has to be between 6 and 40 characters"
+msgstr "Naujas slaptažodis turi būti 6 - 40 simbolių ilgio"
+
+msgid "The passwords have to match"
+msgstr "Slaptažodžiai turi sutapti"
+
+msgid "Your old password is wrong"
+msgstr "Neteisingas senas slaptažodis"
+
+#User: USERNAME
+msgid "User"
+msgstr "Vartotojas"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#default if user didn't provide a description about himself
+msgid "Edit your description under \"settings\" <br />Let us know a little bit about yourself and what your typing goals are :)"
+msgstr "Edit your description under \"settings\" <br />Let us know a little bit about yourself and what your typing goals are :)"
+
+msgid "User details"
+msgstr "Vartotojo duomenys"
+
+msgid "last login"
+msgstr "paskutinis prisijungimas"
+
+msgid "member since"
+msgstr "narys nuo"
+
+msgid "Profile views"
+msgstr "Profilio peržiūros"
+
+msgid "Keyboard Layout"
+msgstr "Klaviatūros išdėstymas"
+
+msgid "Keyboard"
+msgstr "Klaviatūra"
+
+msgid "Tests taken"
+msgstr "Atlikti testai"
+
+msgid "Competitions taken"
+msgstr "Dalyvautos varžybos"
+
+msgid "last 50 tests"
+msgstr "paskutiniai 50 testų"
+
+msgid "Highest WPM"
+msgstr "Didžiausias ŽPM"
+
+msgid "Lowest WPM"
+msgstr "Mažiausias ŽPM"
+
+msgid "Average WPM"
+msgstr "Vidutinis ŽPM"
+
+msgid "Achievements"
+msgstr "Pasiekimai"
+
+msgid "Visitors"
+msgstr "Visitors"
+
+msgid "Activity"
+msgstr "Activity"
+
+msgid "Recent Competitions"
+msgstr "Recent Competitions"
+
+msgid "Graph"
+msgstr "Grafikas"
+
+msgid "back to Profile"
+msgstr "grįžti į profilį"
+
+msgid "Profile"
+msgstr "Profilis"
+
+msgid "Real Names are preferred"
+msgstr "Pageidautini tikri vardai"
+
+msgid "save"
+msgstr "išsaugoti"
+
+msgid "Save settings"
+msgstr "Save settings"
+
+msgid "User"
+msgstr "Vartotojas"
+
+msgid "Which keyboard do you use?"
+msgstr "Kokią klaviatūrą naudojate?"
+
+#Keyboard name input box placeholder
+msgid "Keyboard Name"
+msgstr "Klaviatūros pavadinimas"
+
+msgid "Keyboard Name (e.g. Logitech K120)"
+msgstr "Keyboard Name (e.g. Logitech K120)"
+
+msgid "Change your password"
+msgstr "Pakeisti slaptažodį"
+
+#password reset form placeholders
+msgid "Old password"
+msgstr "Senas slaptažodis"
+
+msgid "New password"
+msgstr "Naujas slaptažodis"
+
+msgid "Confirm password"
+msgstr "Patv. slaptažodį"
+
+msgid "Gravatar Profile Picture"
+msgstr "Gravatar profilio paveiksliukas"
+
+msgid "You can use Gravatar to upload or change your profile picture."
+msgstr "Galite naudoti Gravatar profilio paveiksliuko įkėlimams ir keitimams."
+
+msgid "What is Gravatar"
+msgstr "Kas yra Gravatar"
+
+msgid "This is your gravatar:"
+msgstr "Štai jūsų Gravatar:"
+
+msgid "Words typed"
+msgstr "Words typed"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Recent Competitions"
+msgstr "Recent Competitions"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Participants"
+msgstr "Participants"
+
+msgid "Tests taken"
+msgstr "Atlikti testai"
+
+msgid "Visit Typing Competition"
+msgstr "Visit Typing Competition"
+
+msgid "normal"
+msgstr "normal"
+
+msgid "advanced"
+msgstr "advanced"
+
+msgid "corrections"
+msgstr "corrections"
+
+msgid "Competitions won"
+msgstr "Competitions won"
+
+msgid "Delete Account"
+msgstr "Delete Account"
+
+msgid "Delete my Account"
+msgstr "Delete my Account"
+
+msgid "You can delete your account by pressing the button on the bottom right. Keep in mind that once your account is deleted, it can't be restored."
+msgstr "You can delete your account by pressing the button on the bottom right. Keep in mind that once your account is deleted, it can't be restored."
+
+msgid "If you want to share the reason why you want to delete your account, please send me an email: go4christian@gmail.com"
+msgstr "If you want to share the reason why you want to delete your account, please send me an email: go4christian@gmail.com"
+
+msgid "Thank you for using 10FastFingers.com :)"
+msgstr "Thank you for using 10FastFingers.com :)"
+
+msgid "User ID"
+msgstr "User ID"
+
+msgid "Your account has been deleted"
+msgstr "Your account has been deleted"
+
+msgid "last 500 results for each typing mode"
+msgstr "last 500 results for each typing mode"
+
+msgid "Most active users"
+msgstr "Most active users"
+
+msgid "no description"
+msgstr "nėra aprašymo"

@@ -1,0 +1,305 @@
+msgid "Achievements"
+msgstr "Pasiekimai"
+
+msgid "This is a list of all the achievements available, if you have any questions about them, please send me an email (in english or german): <a href=\"mailto:go4@christianstrang.de?subject=10FastFingers Achievements\">go4@christianstrang.de</a>"
+msgstr "Čia yra sąrašas visų galimų pasiekimų, jei turite klausimų apie juos, prašome parašyti man el. laišką (angliškai arba vokiškai): <a href=\"mailto:go4@christianstrang.de?subject=10FastFingers Achievements\">go4@christianstrang.de</a>"
+
+msgid "Typing Test"
+msgstr "Rašymo testas"
+
+msgid "10 Tests taken"
+msgstr "10 atliktų testų"
+
+msgid "Finish 10 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 10 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "25 Tests taken"
+msgstr "25 atlikti testai"
+
+msgid "Finish 25 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 25 rašymo testus, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "50 Tests taken"
+msgstr "50 atliktų testų"
+
+msgid "Finish 50 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 50 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "100 Tests taken"
+msgstr "100 atliktų testų"
+
+msgid "Finish 100 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 100 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "250 Tests taken"
+msgstr "250 atliktų testų"
+
+msgid "Finish 250 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 250 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "500 Tests taken"
+msgstr "500 atliktų testų"
+
+msgid "Finish 500 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 500 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "750 Tests taken"
+msgstr "750 atliktų testų"
+
+msgid "Finish 750 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 750 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "1000 Tests taken"
+msgstr "1000 atliktų testų"
+
+msgid "Finish 1000 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 1000 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "2500 Tests taken"
+msgstr "2500 atliktų testų"
+
+msgid "Finish 2500 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 2500 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "5000 Tests taken"
+msgstr "5000 atliktų testų"
+
+msgid "Finish 5000 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 5000 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "7500 Tests taken"
+msgstr "7500 atliktų testų"
+
+msgid "Finish 7500 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 7500 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "10000 Tests taken"
+msgstr "10000 atliktų testų"
+
+msgid "Finish 10000 Typing Tests to earn this badge. You need to reach at least 20 WPM."
+msgstr "Atlikite 10000 rašymo testų, kad gautumėte šį ženklelį. Turite pasiekti bent 20 ŽPM."
+
+msgid "Flawless 3"
+msgstr "Be klaidų 3"
+
+msgid "Finish 3 Typing Tests in a row, without making a mistake and with at least 70 WPM."
+msgstr "Atlikite 3 rašymo testus iš eilės be jokių klaidų ir pasiekę bent 70 ŽPM."
+
+msgid "Flawless 5"
+msgstr "Be klaidų 5"
+
+msgid "Finish 5 Typing Tests in a row, without making a mistake and with at least 70 WPM."
+msgstr "Atlikite 5 rašymo testus iš eilės be jokių klaidų ir pasiekę bent 70 ŽPM."
+
+msgid "Flawless 10"
+msgstr "Be klaidų 10"
+
+msgid "Finish 10 Typing Tests in a row, without making a mistake and with at least 70 WPM."
+msgstr "Atlikite 10 rašymo testų iš eilės be jokių klaidų ir pasiekę bent 70 ŽPM."
+
+msgid "50+ WPM"
+msgstr "50+ ŽPM"
+
+msgid "Score more than 50 WPM."
+msgstr "Pasiekite daugiau nei 50 ŽPM."
+
+msgid "60+ WPM"
+msgstr "60+ ŽPM"
+
+msgid "Score more than 60 WPM."
+msgstr "Pasiekite daugiau nei 60 ŽPM."
+
+msgid "70+ WPM"
+msgstr "70+ ŽPM"
+
+msgid "Score more than 70 WPM."
+msgstr "Pasiekite daugiau nei 70 ŽPM."
+
+msgid "80+ WPM"
+msgstr "80+ ŽPM"
+
+msgid "Score more than 80 WPM."
+msgstr "Pasiekite daugiau nei 80 ŽPM."
+
+msgid "90+ WPM"
+msgstr "90+ ŽPM"
+
+msgid "Score more than 90 WPM."
+msgstr "Pasiekite daugiau nei 90 ŽPM."
+
+msgid "100+ WPM"
+msgstr "100+ ŽPM"
+
+msgid "Score more than 100 WPM."
+msgstr "Pasiekite daugiau nei 100 ŽPM."
+
+msgid "10 Competitions taken"
+msgstr "10 dalyvautų varžybų"
+
+msgid "Participate in 10 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 10 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "25 Competitions taken"
+msgstr "25 dalyvautos varžybos"
+
+msgid "Participate in 25 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 25 skirtingose rašymo varžybose, kad gautumėte šį ženklelį."
+
+msgid "50 Competitions taken"
+msgstr "50 dalyvautų varžybų"
+
+msgid "Participate in 50 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 50 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "100 Competitions taken"
+msgstr "100 dalyvautų varžybų"
+
+msgid "Participate in 100 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 100 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "250 Competitions taken"
+msgstr "250 dalyvautų varžybų"
+
+msgid "Participate in 250 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 250 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "500 Competitions taken"
+msgstr "500 dalyvautų varžybų"
+
+msgid "Participate in 500 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 500 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "1000 Competitions taken"
+msgstr "1000 dalyvautų varžybų"
+
+msgid "Participate in 1000 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 1000 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "2500 Competitions taken"
+msgstr "2500 dalyvautų varžybų"
+
+msgid "Participate in 2500 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 2500 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "5000 Competitions taken"
+msgstr "5000 dalyvautų varžybų"
+
+msgid "Participate in 5000 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 5000 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "7500 Competitions taken"
+msgstr "7500 dalyvautų varžybų"
+
+msgid "Participate in 7500 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 7500 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "10000 Competitions taken"
+msgstr "10000 dalyvautų varžybų"
+
+msgid "Participate in 10000 different Typing Competitions to earn this badge."
+msgstr "Dalyvaukite 10000 skirtingų rašymo varžybų, kad gautumėte šį ženklelį."
+
+msgid "1 Competition won"
+msgstr "1 laimėtos varžybos"
+
+msgid "Be the fastest typist in 1 <strong>public</strong> competition with at least 5 participants (you included)."
+msgstr "Be the fastest typist in 1 <strong>public</strong> competition with at least 5 participants (you included)."
+
+msgid "3 Competitions won"
+msgstr "3 laimėtos varžybos"
+
+msgid "Be the fastest typist in 3 <strong>public</strong> competitions with at least 5 participants (you included)."
+msgstr "Be the fastest typist in 3 <strong>public</strong> competitions with at least 5 participants (you included)."
+
+msgid "5 Competitions won"
+msgstr "5 laimėtos varžybos"
+
+msgid "Be the fastest typist in 5 <strong>public</strong> competitions with at least 5 participants (you included)."
+msgstr "Be the fastest typist in 5 <strong>public</strong> competitions with at least 5 participants (you included)."
+
+msgid "10 Competitions won"
+msgstr "10 laimėtų varžybų"
+
+msgid "Be the fastest typist in 10 <strong>public</strong> competitions with at least 5 participants (you included)."
+msgstr "Be the fastest typist in 10 <strong>public</strong> competitions with at least 5 participants (you included)."
+
+msgid "25 Competitions won"
+msgstr "25 laimėtos varžybos"
+
+msgid "Be the fastest typist in 25 <strong>public</strong> competitions with at least 5 participants (you included)."
+msgstr "Be the fastest typist in 25 <strong>public</strong> competitions with at least 5 participants (you included)."
+
+msgid "50 Competitions won"
+msgstr "50 laimėtų varžybų"
+
+msgid "Be the fastest typist in 50 <strong>public</strong> competitions with at least 5 participants (you included)."
+msgstr "Be the fastest typist in 50 <strong>public</strong> competitions with at least 5 participants (you included)."
+
+msgid "Friendly Fire 3"
+msgstr "Draugiška ugnis 3"
+
+msgid "Start a private typing competition and invite 3 of your friends."
+msgstr "Susirunkite su 3 jūsų draugais privačiose varžybose."
+
+msgid "Friendly Fire 5"
+msgstr "Draugiška ugnis 5"
+
+msgid "Start a private typing competition and invite 5 of your friends."
+msgstr "Susirunkite su 5 jūsų draugais privačiose varžybose."
+
+msgid "Friendly Fire 10"
+msgstr "Draugiška ugnis 10"
+
+msgid "Start a private typing competition and invite 10 of your friends."
+msgstr "Susirunkite su 10 jūsų draugų privačiose varžybose."
+
+msgid "Competition Grinder 3"
+msgstr "Varžybų galąstuvas 3"
+
+msgid "Participate 3 times in the same competition."
+msgstr "Dalyvaukite 3 kartus tose pačiose varžybose."
+
+msgid "Competition Grinder 5"
+msgstr "Varžybų galąstuvas 5"
+
+msgid "Participate 5 times in the same competition."
+msgstr "Dalyvaukite 5 kartus tose pačiose varžybose."
+
+msgid "Competition Grinder 10"
+msgstr "Varžybų galąstuvas 10"
+
+msgid "Participate 10 times in the same competition."
+msgstr "Dalyvaukite 10 kartus tose pačiose varžybose."
+
+msgid "Competition Grinder 25"
+msgstr "Varžybų galąstuvas 25"
+
+msgid "Participate 25 times in the same competition."
+msgstr "Dalyvaukite 25 kartus tose pačiose varžybose."
+
+msgid "Competition Grinder 50"
+msgstr "Varžybų galąstuvas 50"
+
+msgid "Participate 50 times in the same competition."
+msgstr "Dalyvaukite 50 kartų tose pačiose varžybose."
+
+msgid "Typing Competition"
+msgstr "Rašymo varžybos"
+
+msgid "Translator"
+msgstr "Vertėjas"
+
+msgid "Participate on 10FastFingers and translate a part of the site or improve an existing translation."
+msgstr "Savanoriaukite 10FastFingers ir išverskite dalį svetainės arba pagerinkite dabartinį vertimą."
+
+msgid "Achievements of Honor"
+msgstr "Achievements of Honor"
+
+msgid "You have to be logged in to see your recently unlocked achievements."
+msgstr "You have to be logged in to see your recently unlocked achievements."
+
+msgid "Recently unlocked Achievements"
+msgstr "Recently unlocked Achievements"
+
+msgid "This is a list of all the <a href="https://10fastfingers.com/achievements">Achievements</a> you have unlocked (ordered by the most recent you unlocked)."
+msgstr "This is a list of all the <a href="https://10fastfingers.com/achievements">Achievements</a> you have unlocked (ordered by the most recent you unlocked)."

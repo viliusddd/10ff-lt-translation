@@ -1,0 +1,110 @@
+msgid "Improve your Typing Speed"
+msgstr "Patobulinkite rašymo įgūdžius"
+
+msgid "Typing Mode"
+msgstr "Rašymo režimas"
+
+#typing mode selector
+msgid "Typing Test"
+msgstr "Rašymo testas"
+
+#typing mode selector
+msgid "Typing Test (advanced)"
+msgstr "Rašymo testas (pažangus)"
+
+#typing mode selector
+msgid "Typing Competition"
+msgstr "Rašymo varžybos"
+
+msgid "Custom Typing Test"
+msgstr "Custom Typing Test"
+
+msgid "Multiplayer Typing Test"
+msgstr "Multiplayer Typing Test"
+
+msgid "Mobile App"
+msgstr "Mobili aplik."
+
+msgid "Practice Mode"
+msgstr "Practice Mode"
+
+msgid "Updates"
+msgstr "Atnaujinimai"
+
+msgid "Feedback"
+msgstr "Nuomonė"
+
+msgid "Contact"
+msgstr "Kontaktai"
+
+msgid "Forum"
+msgstr "Forumas"
+
+msgid "Feedback / Contact"
+msgstr "Nuomonė / Kontaktai"
+
+msgid "Follow me on Twitter"
+msgstr "Sekite mane per Twitter"
+
+msgid "WPM"
+msgstr "ŽPM"
+
+msgid "CPM"
+msgstr "CPM"
+
+msgid "CPS"
+msgstr "CPS"
+
+msgid "Keystrokes"
+msgstr "Klavišai"
+
+msgid "Username"
+msgstr "Slapyvardis"
+
+msgid "Email"
+msgstr "El. paštas"
+
+msgid "<span id=\"user-online\">%s</span> Users Online"
+msgstr "<span id=\"user-online\">%s</span> Users Online"
+
+msgid "click to show/hide countdown"
+msgstr "click to show/hide countdown"
+
+msgid "Highscores"
+msgstr "Highscores"
+
+msgid "Top 200 words"
+msgstr "Top 200 words"
+
+msgid "Top 1000 words"
+msgstr "Top 1000 words"
+
+msgid "Who can type the fastest?"
+msgstr "Who can type the fastest?"
+
+msgid "Text Practice"
+msgstr "Text Practice"
+
+msgid "Practice your own Text"
+msgstr "Practice your own Text"
+
+msgid "Top 1000"
+msgstr "Top 1000"
+
+msgid "Unlock the Top 1000 words of your language"
+msgstr "Unlock the Top 1000 words of your language"
+
+msgid "Check out our Android Mobile App"
+msgstr "Check out our Android Mobile App"
+
+msgid "Sorry, but you have to be logged in to use this feature."
+msgstr "Sorry, but you have to be logged in to use this feature."
+
+msgid "created"
+msgstr "created"
+
+msgid "ABC Typing App"
+msgstr "ABC Typing App"
+
+msgid "How fast can you type the ABC?"
+msgstr "How fast can you type the ABC?"

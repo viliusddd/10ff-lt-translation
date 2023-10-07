@@ -1,0 +1,80 @@
+msgid "Would you like to be notified when new features and games go live?"
+msgstr "Would you like to be notified when new features and games go live?"
+
+msgid "YES!"
+msgstr "YES!"
+
+msgid "no"
+msgstr "no"
+
+msgid "Email settings"
+msgstr "Email settings"
+
+msgid "You have to confirm your email address before you can receive updates/notifications via email."
+msgstr "You have to confirm your email address before you can receive updates/notifications via email."
+
+msgid "Send Confirmation Email"
+msgstr "Send Confirmation Email"
+
+msgid "Newsletter <em>(updates about new features & games)</em>"
+msgstr "Newsletter <em>(updates about new features & games)</em>"
+
+msgid "Notifications <em>(e.g. somebody beats your score in a typing competition)</em>"
+msgstr "Notifications <em>(e.g. somebody beats your score in a typing competition)</em>"
+
+msgid "Receive Emails"
+msgstr "Receive Emails"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Email settings saved!"
+msgstr "Email settings saved!"
+
+msgid "We just sent you an email with a link in it, please confirm your email by clicking on the link."
+msgstr "We just sent you an email with a link in it, please confirm your email by clicking on the link."
+
+msgid "Great! We can now send you <strong>Typing Tips</strong> to become faster and updates about <strong>new Features and Games</strong>!"
+msgstr "Great! We can now send you <strong>Typing Tips</strong> to become faster and updates about <strong>new Features and Games</strong>!"
+
+msgid "Sorry, this email is already being used by another account."
+msgstr "Sorry, this email is already being used by another account."
+
+msgid "Please click the link in the email we just send you to confirm your new email address. After this, your email will be changed."
+msgstr "Please click the link in the email we just send you to confirm your new email address. After this, your email will be changed."
+
+msgid "You didn\'t change your email address"
+msgstr "You didn\'t change your email address"
+
+msgid "You didn\'t provide a correct email address"
+msgstr "You didn\'t provide a correct email address"
+
+msgid "Confirmation Link is invalid"
+msgstr "Confirmation Link is invalid"
+
+msgid "Thank you for updating your email address!"
+msgstr "Thank you for updating your email address!"
+
+msgid "This link is invalid"
+msgstr "Ši nuoroda negalioja"
+
+msgid "You won't receive any emails from us. If you change your mind and want to get notified about new features and typing games, please take a look on your <a href=\"/settings\">settings</a> page."
+msgstr "You won't receive any emails from us. If you change your mind and want to get notified about new features and typing games, please take a look on your <a href=\"/settings\">settings</a> page."
+
+msgid "Activate your account"
+msgstr "Activate your account"
+
+msgid "Hello"
+msgstr "Hello"
+
+msgid "Happy Typing!"
+msgstr "Happy Typing!"
+
+msgid "Click this link to activate your account:"
+msgstr "Click this link to activate your account:"
+
+msgid "Confirm my account."
+msgstr "Confirm my account."
+
+msgid "After clicking this link, you will be logged in automatically."
+msgstr "After clicking this link, you will be logged in automatically."

@@ -1,0 +1,152 @@
+msgid "Create an account"
+msgstr "Sukurti vartotoją"
+
+msgid "Username"
+msgstr "Slapyvardis"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+msgid "Confirm Password"
+msgstr "Patv. slaptažodį"
+
+msgid "Email"
+msgstr "El. paštas"
+
+msgid "for password recovery, new features & achievements"
+msgstr "atkurti slaptažodžiui, naujoms funkcijoms ir pasiekimams"
+
+msgid "Create your account"
+msgstr "Sukurti jūsų vartotoją"
+
+msgid "Facebook Login"
+msgstr "Facebook prisijungimas"
+
+msgid "Twitter Login"
+msgstr "Twitter prisijungimas"
+
+msgid "Google Login"
+msgstr "Google prisijungimas"
+
+msgid "Login / Create Account"
+msgstr "Prisijungti / Užsiregistruoti"
+
+msgid "1-Click-Login"
+msgstr "1-paspaudimo-prisijungimas"
+
+msgid "Email Login"
+msgstr "E-pašto prisijungimas"
+
+msgid "Login"
+msgstr "Prisijungti"
+
+msgid "Create Account"
+msgstr "Sukurti paskyrą"
+
+msgid "Forgot your Password?"
+msgstr "Pamiršote slaptažodį?"
+
+msgid "Password Recovery"
+msgstr "Atkurti slaptažodį"
+
+msgid "Keep me logged in"
+msgstr "Prisiminti mane"
+
+msgid "Create an Account"
+msgstr "Sukurti vartotoją"
+
+msgid "Profile"
+msgstr "Profilis"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Logout"
+msgstr "Atsijungti"
+
+msgid "Insert the email you signed-up with. We will then send you an email to help you recover your password."
+msgstr "Įveskite el. paštą, kuriuo užsiregistravote. Mes jums nusiųsime el. laišką, kad galėtumėte atkurti savo slaptažodį."
+
+#forgot password
+msgid "Click this link to receive a temporary password for your account (we will send you this password in another eMail):"
+msgstr "Paspauskite šią nuorodą, kad gautumėte laikiną slaptažodį jūsų vartotojui (mes jums jį atsiųsime į kitą el. paštą):"
+
+#forgot password email subject
+msgid "Password Recovery Link"
+msgstr "Slaptažodžio atkūrimo nuoroda"
+
+#forgot password
+msgid "We just send you an email with a link in it. Click the link and we will generate a new password for you."
+msgstr "Mes nusiuntėme jums el. laišką su nuoroda jame. Spauskite ant nuorodos ir mes sugeneruosime jums naują slaptažodį."
+
+#forgot password email message. VAR: generated password
+msgid "This is your temporary password: <strong>%s</strong><br /><br /> Please change this password after your login in your profile settings."
+msgstr "Tai jūsų laikinas slaptažodis: <strong>%s</strong><br /><br /> Prisijungus, prašome jį pakeisti jūsų profilio nustatymuose."
+
+#Welcome message. VAR: username
+msgid "Welcome to 10FastFingers.com, %s"
+msgstr "Sveiki atvykę į 10FastFingers.com, %s"
+
+msgid "Welcome to 10fastfingers.com"
+msgstr "Sveiki atvykę į 10fastfingers.com"
+
+#create account error message
+msgid "Please fix the errors to create your account."
+msgstr "Prašome sutvarkyti klaidas, norėdami sukurti vartotoją."
+
+#native login error message
+msgid "Username or Password is wrong. Please try again."
+msgstr "Slapyvardis ar slaptažodis yra neteisingas. Pamėginkite iš naujo."
+
+#google login
+msgid "User has canceled authentication!"
+msgstr "Vartotojas atšaukė patvirtinimą!"
+
+#send button text for password recovery form
+msgid "send"
+msgstr "siųsti"
+
+msgid "Username / Email"
+msgstr "Vartotojo vardas / E-paštas"
+
+msgid "We couldnt find the email you entered. Is it possible that you logged in with another account (like: Facebook, Twitter or Google)? Please try to login with our 1-click-login methods. If that also doesnt work, please send me an email"
+msgstr "Mes negalėjome rasti E-pašto kurį jūs įvedėte. Ar įmanoma, kad jūs prisijungėte su kita paskyra (kaip: Facebook, Twitter ar Google)? Prašome pamėginti prisijungti su mūsų 1-paspaudimo-prisijungimo metodais. Jeigu ir tai neveikia, prašome siųsti man e-laišką"
+
+msgid "You cancelled the authentication process. You have to accept the account permissions if you want to login to 10FastFingers with your Google account. We ask you for your basic profile info to show your profile image on 10FastFingers and your email so we can send you important updates for 10FastFingers in the future (we promise that we won't send spam or sell your email address)."
+msgstr "Jūs atšaukėte autentifikavimo procesą. Jūs turite priimti paskyros leidimus, jeigu norite prisijungti prie 10FastFingers su jūsų Google paskyra. Mes prašome jūsų paprasto profilio, kad rodytumėme jūsų profilio nuotrauką 10FastFingers ir jūsų e-pašto, kad galėtumėme siųsti svarbius atnaujinimus 10FastFingers ateityje (mes pažadame, kad nesiųsime šlamšto ar parduosime jūsų e-pašto adresą)."
+
+msgid "If you don't feel safe with this option, you can of course use one of our other login mechanisms! Happy Typing :)"
+msgstr "Jeigu jūs nesijaučiate saugūs su šia parinktimi, jūs galite naudoti vieną iš kitų prisijungimo būdų! Smagaus rašymo :)"
+
+msgid "login, please wait"
+msgstr "Prisijungiama, prašome palaukti"
+
+msgid "Error, please try again. If the error keeps appearing, please send me an email."
+msgstr "Klaida, prašome mėginti dar kartą. Jeigu klaida kartojasi, prašome siųsti man e-laišką."
+
+msgid "Password recovered! Please check your email inbox for your new password."
+msgstr "Slaptažodis atkurtas! Prašome patikrinti jūsų e-pašto dėžutę naujam slaptažodžiui."
+
+msgid "Please provide a valid Email address"
+msgstr "Prašome duoti galiojantį e-pašto adresą"
+
+msgid "We send you an Email to the address you provided. Please click the link inside this email to activate your account."
+msgstr "Mes išsiuntėme jums e-laišką su adresu jūs mums davėte. Prašome paspausti nuorodą viduje e-laiško, kad aktyvuotumėte jūsų paskyrą."
+
+msgid "Account activation"
+msgstr "Paskyros aktyvavimas"
+
+msgid "Activate Account"
+msgstr "Aktyvuoti paskyrą"
+
+msgid "Thank you for joining 10FastFingers.com, please click the following link to activate your account: https://10fastfingers.com/account/activate/%s/%s"
+msgstr "Dėkojame, kad prisijungėte prie 10FastFingers.com, prašome paspausti šalia esančią nuorodą aktyvuoti paskyrai: https://10fastfingers.com/account/activate/%s/%s"
+
+msgid "This link is invalid"
+msgstr "Ši nuoroda negalioja"
+
+msgid "Sorry, but this email address is already used by another account."
+msgstr "Atsiprašome, bet šis e-pašto adresas yra užimtas kita paskyra."
+
+msgid "Your Token has expired! Use the forgot password form or contact administrator."
+msgstr "Jūsų raktas pasibaigė! Naudokite 'Pamiršau slaptažodį' formą ar susisiekite su administratoriumi."

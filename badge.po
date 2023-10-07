@@ -1,0 +1,11 @@
+msgid "My Typing Test Score"
+msgstr "Mano rašymo testo rezultatai"
+
+msgid "%s WPM"
+msgstr "%s ŽPM"
+
+msgid "Are you faster? Click here and try!"
+msgstr "Ar tu greitesnis? Paspausk čia ir išsibandyk!"
+
+msgid "Are you faster?"
+msgstr "Ar tu greitesnis?"

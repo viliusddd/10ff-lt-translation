@@ -1,0 +1,14 @@
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "New Achievement unlocked"
+msgstr "New Achievement unlocked"
+
+msgid "Anticheat: Evaluate your Typing result"
+msgstr "Anticheat: Evaluate your Typing result"
+
+msgid "Anticheat: Evaluate your Competition result"
+msgstr "Anticheat: Evaluate your Competition result"
+
+msgid "no notifications yet"
+msgstr "no notifications yet"

@@ -1,0 +1,225 @@
+#page title
+msgid "Typing Test"
+msgstr "Rašymo testas"
+
+msgid "Advanced Typing Test"
+msgstr "Advanced Typing Test"
+
+#speedtest page meta description
+msgid "Typing Test - 10fastfingers offers a free online Typing Test Game in multiple languages. You can measure your typing skills, improve your typing speed and compare your results with your friends. How fast are you? Visit 10fastfingers.com and figure it out!"
+msgstr "Rašymo testas - 10fastfingers siūlo jums nemokamą internetinį rašymo testo žaidimą daugelyje kalbų. Galite pasitikrinti savo rašymo įgūdžius, patobulinti rašymo greitį ir palyginti rezultatus su draugais. Koks greitas esate? Aplankykite 10fastfingers.com ir sužinokite!"
+
+#speedtest result page title
+msgid "I can type %s words per minute. Are you faster?"
+msgstr "Galiu rašyti %s žodžių per minutę. Esate greitesni?"
+
+#speedtest result page description
+msgid "Test your typing speed and compare the result with your friends."
+msgstr "Pasitikrinkite rašymo greitį ir palyginkite rezultatą su draugais."
+
+msgid "Result"
+msgstr "Rezultatas"
+
+msgid "Share"
+msgstr "Dalintis"
+
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+msgid "Share your Result"
+msgstr "Share your Result"
+
+msgid "Copy & paste the HTMLcode below to add this to your blog, website or forum signature (ask me if you need help: go4@christianstrang.de - please English or German only)"
+msgstr "Nukopijuokite šį HTML kodą žemiau ir įdėkite jį į jūsų blogą, svetainę ar forumo parašą (klauskite, jei reikia pagalbos: go4@christianstrang.de - tik angliškai arba vokiškai)"
+
+msgid "Copy this code and paste it into your blog, website or forum signature"
+msgstr "Nukopijuokite šį kodą ir įdėkite jį į jūsų blogą, svetainę ar forumo parašą"
+
+msgid "Words per minute (WPM)"
+msgstr "Žodžiai per minutę (ŽPM)"
+
+msgid "Words per Minute: 1 word equals 5 keystrokes"
+msgstr "Žodžiai per minutę: 1 žodis lygu 5 klavišai"
+
+msgid "Correct words"
+msgstr "Teisingi žodžiai"
+
+msgid "Wrong words"
+msgstr "Klaidingi žodžiai"
+
+msgid "You are better than <span id=\"better-than-percent-value\">%s%%</span> of all users <small>(<strong>position %s</strong> of %s - last 24 hours</small>)"
+msgstr "Jūs esate greitesni nei <span id=\"better-than-percent-value\">%s%%</span> visų vartotojų <small>(<strong>%s vieta</strong> iš %s - pastarosiomis 24 val.</small>)"
+
+msgid "You reached <strong>%s Points</strong> so you achieved <strong>position %s</strong> of %s on the ranking list <em>(last 24 hours)</em>"
+msgstr "Jūs pasiekėte <strong>%s tašk.</strong>, taigi pasiekėte <strong>%s vietą</strong> iš %s reitingų lentelėje <em>(pastarosiomis 24 val.)</em>"
+
+msgid "http://twitter.com/home?status=My+Typing+Test+Score:+%s+WPM!+Are+you+faster?"
+msgstr "http://twitter.com/home?status=Mano+rašymo+testo+rezultatas:+%s+ŽPM!+Ar+esate+greitesni?"
+
+msgid "http://twitter.com/home?status=My+Typing+Test+Score:+%s+WPM!+Are+you+faster? - https://10fastfingers.com/typing-test/%s+%%23speedtest+%%23typing+%%23test+%%2310fastfingers"
+msgstr "http://twitter.com/home?status=Mano+rašymo+testo+rezultatas:+%s+ŽPM!+Ar+esate+greitesni? - https://10fastfingers.com/typing-test/%s+%%23speedtest+%%23typing+%%23test+%%2310fastfingers"
+
+msgid "http://www.facebook.com/sharer/sharer.php?u=https://10fastfingers.com/result/%s_%s/I+can+type+%s+words+per+minute+Are+you+faster?"
+msgstr "http://www.facebook.com/sharer/sharer.php?u=https://10fastfingers.com/result/%s_%s/I+can+type+%s+words+per+minute+Are+you+faster?"
+
+msgid "https://10fastfingers.com/result/%s_%s/I+can+type+%s+words+per+minute+Are+you+faster?"
+msgstr "https://10fastfingers.com/result/%s_%s/I+can+type+%s+words+per+minute+Are+you+faster?"
+
+msgid "My Typing Test Score"
+msgstr "Mano rašymo testo rezultatas"
+
+msgid "%s WPM"
+msgstr "%s ŽPM"
+
+msgid "Are you faster? Click here and try!"
+msgstr "Ar esate greitesni? Paspauskite čia ir išsibandykite!"
+
+msgid "Visit the [url=https://10fastfingers.com/typing-test/%s]Typing Test[/url] and try!"
+msgstr "Aplankykite [url=https://10fastfingers.com/typing-test/%s]Rašymo testą[/url] ir išsibandykite!"
+
+msgid "Visit the <a href=\"https://10fastfingers.com/typing-test/%s\">Typing Test</a> and try!"
+msgstr "Aplankykite <a href=\"https://10fastfingers.com/typing-test/%s\">Rašymo testą</a> ir išsibandykite!"
+
+msgid "I can type"
+msgstr "Aš galiu rašyti"
+
+msgid "(words per minute)"
+msgstr "(žodžiai per minutę)"
+
+msgid "Are you faster?"
+msgstr "Ar esate greitesni?"
+
+msgid "How fast can you type?"
+msgstr "Kaip greitai rašote?"
+
+#speedtest highscore Tabelle
+msgid "Top Ranking"
+msgstr "Top reitingai"
+
+msgid "Tests taken"
+msgstr "Atlikti testai"
+
+msgid "Global Challenge"
+msgstr "Pasaulinis iššūkis"
+
+msgid "<strong>Top Rankings:</strong> last 24 hours (only for logged in users)"
+msgstr "<strong>Top reitingai:</strong> pastarosiomis 24 val. (tik prisijungusiems)"
+
+msgid "Top 50"
+msgstr "Top 50"
+
+msgid "Username"
+msgstr "Slapyvardis"
+
+msgid "Keystrokes"
+msgstr "Klavišai"
+
+#table header which shows the amount of time that has passed
+msgid "ago"
+msgstr "prieš"
+
+msgid "last 24h"
+msgstr "pastarosiomis 24 val."
+
+msgid "all"
+msgstr "visi"
+
+msgid "<strong>Global Challenge:</strong> which language is the most active? Considers all tests from the last 24 hours.</p>"
+msgstr "<strong>Pasaulinis iššūkis:</strong> kuri kalba yra aktyviausia? Užskaitomi visi testai pastarosiomis 24 val.</p>"
+
+msgid "Language"
+msgstr "Kalba"
+
+msgid "Email"
+msgstr "El. paštas"
+
+#Page Title top 50 highscore page
+msgid "Typing Test: Top 50"
+msgstr "Rašymo testas: Top 50"
+
+msgid "<h2>Top 50 Rankings</h2> These are the Top 50 Typists of the last 24 hours"
+msgstr "<h2>Top 50 reitingų</h2> Šie yra top 50 rašytojų pastarosiomis 24 val."
+
+msgid "Sorry, but Javascript is required. Please <a href=\"http://www.activatejavascript.org/\">activate Javascript</a>"
+msgstr "Deja, Javascript yra privalomas. Prašome<a href=\"http://www.activatejavascript.org/\">aktyvuoti Javascript</a>"
+
+msgid "Please activate Cookies. If you have Cookies activated, try to reload the page (CTRL+R)."
+msgstr "Prašome aktyvuoti sausainiukus (Cookies). Jei juos aktyvavote, perkraukite puslapį (Ctrl + R)."
+
+msgid "Error or Bug? Try reloading the page by pressing \"CTRL+R\", this might fix it!"
+msgstr "Klaida ar trukdžiai? Pamėginkite perkrauti puslapį paspausdami \"Ctrl + R\", turėtų padėti!"
+
+msgid "Press ENTER to confirm your input"
+msgstr "Paspauskite ENTER norėdami patvirtinti"
+
+msgid "Login"
+msgstr "Prisijungimas"
+
+msgid "An error occurred. Your result is probably not saved, sorry for the inconvenience."
+msgstr "Įvyko klaida. Jūsų rezultatas tikriausiai nebuvo išsaugotas, atsiprašome už nepatogumus."
+
+msgid "Please reload 10FastFingers by pressing Ctrl + R (Windows) or Cmd + R (Mac)."
+msgstr "Please reload 10FastFingers by pressing Ctrl + R (Windows) or Cmd + R (Mac)."
+
+msgid "Please make sure that your internet connection is stable/active when the result is transmitted. If this error occurs more than once, try <a target=\"_blank\" href=\"http://www.updateyourbrowser.net/en/\">updating your browser</a> or <a href=\"mailto:go4@christianstrang.de?subject=contact about result error\">contact me</a>"
+msgstr "Please make sure that your internet connection is stable/active when the result is transmitted. If this error occurs more than once, try <a target=\"_blank\" href=\"http://www.updateyourbrowser.net/en/\">updating your browser</a> or <a href=\"mailto:go4@christianstrang.de?subject=contact about result error\">contact me</a>"
+
+msgid "About the Typing Test"
+msgstr "Apie rašymo testą"
+
+msgid "10FastFingers lets you test your typing speed. Just start typing and see how fast you can type. Practice daily and improve your typing speed. Are you faster than everybody else?"
+msgstr "10FastFingers leidžia jums pasitikrinti savo rašymo greitį. Tiesiog pradėkite rašyti ir žiūrėkite, kaip greitai tai sugebate. Treniruokitės kasdien ir greitėkite. Ar esate greitesni už kitus?"
+
+msgid "Typing Competition"
+msgstr "Rašymo varžybos"
+
+msgid "Are you faster than you friends?<br /> Start a <a href=\"/competitions\">Typing Competition</a> and find out!"
+msgstr "Esate greitesni už draugus?<br /> Pradėkite <a href=\"/competitions\">rašymo varžybas</a> ir išsiaiškinkite!"
+
+msgid "New features & Updates"
+msgstr "Naujovės ir atnaujinimai"
+
+msgid "Visit the <a href=\"http://www.facebook.com/10fastfingers\">10FastFingers Fanpage</a> on Facebook and be the first to know about a new feature."
+msgstr "Aplankykite <a href=\"http://www.facebook.com/10fastfingers\">10FastFingers fanų puslapį</a> Facebook'e ir būkite pirmasis, kuris sužinos apie naujoves."
+
+msgid "Switch Typing Test language"
+msgstr "Pakeisti rašymo testo kalbą"
+
+msgid "Switch the language of the Typing Test"
+msgstr "Pakeisti rašymo testo kalbą"
+
+msgid "Sorry, but you have to be logged in and taken at least 10 normal typing tests to access the <strong>Advanced Typing Test</strong>."
+msgstr "Sorry, but you have to be logged in and taken at least 10 normal typing tests to access the <strong>Advanced Typing Test</strong>."
+
+msgid "All time"
+msgstr "All time"
+
+msgid "<strong>Tests taken:</strong> the most active members of the last 24 hours"
+msgstr "<strong>Tests taken:</strong> the most active members of the last 24 hours"
+
+msgid "Typing Tests taken - All time Highscore"
+msgstr "Typing Tests taken - All time Highscore"
+
+msgid  "You need to take at least 50 typing tests to be featured on this list"
+msgstr "You need to take at least 50 typing tests to be featured on this list"
+
+msgid "Place"
+msgstr "Place"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Screenshot"
+msgstr "Screenshot"
+
+msgid "Save your result"
+msgstr "Save your result"
+
+msgid "Track your progress"
+msgstr "Track your progress"
+
+msgid "Please Login to save your score"
+msgstr "Please Login to save your score"
